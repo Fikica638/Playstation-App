@@ -1,0 +1,48 @@
+img {
+  width: 100%;
+}
+body {
+  color: white;
+  background-color: #468C98;
+}
+td li {
+  text-decoration: none;
+  background-color: #468C98;
+  font-size: 20px;
+  font-family: 'Gabarito';
+  margin:3px;
+}
+h1 {
+  font-size: 30px;
+  font-family: 'Gabarito';
+  color: white;
+}
+.logo {
+  width: 70px;
+  height: 60px;
+
+}
+nav a{
+  padding: 10px;
+  text-decoration: none;
+  color: black;
+  font-family: 'Gabarito';
+  font-size: 22px;
+  width: 100%;
+  height: 71px;
+  margin-bottom: 30px;
+
+
+
+}
+nav a:hover {
+  color: blue;
+}
+.Sony {
+  text-align: right;
+  width: 100%;
+  background-color: black;
+  height: 30px;
+  color: white;
+  font-family: 'Gabarito';
+}
